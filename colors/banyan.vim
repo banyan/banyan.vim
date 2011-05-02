@@ -14,7 +14,7 @@ let colors_name="banyan"
 " Support for 256-color terminal
 "
 if &t_Co > 255
-  hi Boolean         ctermfg=135
+  hi Boolean         ctermfg=195
   hi Delimiter       ctermfg=241
 
   hi Normal          ctermfg=39  ctermbg=NONE

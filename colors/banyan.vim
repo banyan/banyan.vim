@@ -15,7 +15,7 @@ let colors_name="banyan"
 "
 if &t_Co > 255
   hi Boolean         ctermfg=195
-  hi Delimiter       ctermfg=241
+  hi Delimiter       ctermfg=248
 
   hi Normal          ctermfg=39  ctermbg=NONE
   hi SpecialKey      ctermfg=2
